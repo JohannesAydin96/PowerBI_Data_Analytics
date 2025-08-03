@@ -13,7 +13,7 @@ This is an interactive Sales Dashboard built in Power BI, designed to track KPIs
 - `dashboard.png`: Screenshot preview
 
 ## 🖼️ Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](visual_dashboard.png)
 
 ## 🔍 Tools Used
 - Power BI Desktop
