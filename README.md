@@ -6,7 +6,7 @@ Welcome to my Power BI portfolio! This repository contains data visualization pr
 
 ## 🚀 Projects
 
-### ✅ [Sales Dashboard](./SalesDashboard)
+### ✅ [Sales Dashboard](visual_dasboard.png)
 An interactive report built to track KPIs such as:
 - Total revenue
 - Regional performance
