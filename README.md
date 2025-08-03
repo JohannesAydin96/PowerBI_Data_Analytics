@@ -22,15 +22,10 @@ An interactive report built to track KPIs such as:
 - DAX (Data Analysis Expressions)
 - Data transformation with Power Query
 - Data modeling and relationships
-- UX/UI design for dashboards
 
 ---
 
-More dashboards coming soon:
-- HR Analytics
-- Marketing Performance
-- Customer Segmentation
+More dashboards coming soon...
 
 Stay tuned!
 
-- Data modeling
